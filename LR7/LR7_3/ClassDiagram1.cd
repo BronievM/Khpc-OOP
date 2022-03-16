@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LR7_3.Excursion">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAQAAAAEAQAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Excursion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LR7_3.Form1">
+    <Position X="1" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAEAAACAgABAQAACAAAACAAg4RAAAEGAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LR7_3.Monument">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAxQgAAAAAAAAAAAEAAGAAAA=</HashCode>
+      <FileName>Monument.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LR7_3.Museum">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAxQgAAAAAAAAAAAEAAGAAAA=</HashCode>
+      <FileName>Museum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LR7_3.Park">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAxQgAAAAAAAAAAAEAAGAAAA=</HashCode>
+      <FileName>Park.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LR7_3.Khmelnytskiy">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Khmelnytskiy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LR7_3.Kyiv">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Kyiv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LR7_3.Lviv">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Lviv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="LR7_3.IPlace">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>IPlace.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LR7_3.IAbstractFactory">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>IAbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
